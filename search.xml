@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[OSG例子学习-osgmultiviewpaging]]></title>
+    <url>%2F2020%2F02%2F14%2FOSG%E4%BE%8B%E5%AD%90%E5%AD%A6%E4%B9%A0-osgmultiviewpaging%2F</url>
+    <content type="text"><![CDATA[TODO:在这里添加主页上的摘要 TODO:这是默认标题大小]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[OSG例子学习-CompositeViewer]]></title>
     <url>%2F2020%2F02%2F13%2FOSG%E4%BE%8B%E5%AD%90%E5%AD%A6%E4%B9%A0-CompositeViewer%2F</url>
     <content type="text"><![CDATA[CompositeView提供了对多视图/多相机的管理逻辑 概述]]></content>
